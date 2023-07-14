@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "pg",
+    "Db_username": "postgres",
+    "Db_password": "123456789",
+    "Db_port": "5432",
+    "Db_place": "localhost",
+    "db_name": "Events"
+  }
+}
